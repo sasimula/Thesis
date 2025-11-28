@@ -30,7 +30,7 @@
 
 ## Overview
 
-This Network Intrusion Detection System (NIDS) leverages advanced machine learning techniques to detect and classify **15 different types of network attacks** in real-time. Built as a comprehensive thesis project, it combines a robust Python backend with a modern React frontend, featuring an AI-powered assistant for user guidance.
+This Network Intrusion Detection System (NIDS) leverages advanced machine learning techniques to detect and classify **15 different types of network attacks**. Built as a comprehensive thesis project, it combines a robust Python backend with a modern React frontend, featuring an AI-powered assistant for user guidance.
 
 <br/>
 
